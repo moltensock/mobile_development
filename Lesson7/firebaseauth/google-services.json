@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014599097096",
+    "project_id": "moltensock-7",
+    "storage_bucket": "moltensock-7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014599097096:android:cbde2f65fceb2e8c40eabd",
+        "android_client_info": {
+          "package_name": "com.mirea.fedosimovaad.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXzzye4EYHEb3NSvZUF4ra7AFL6I9UzTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,6 @@
 package com.mirea.fedosimovaad.mireaproject;
 
+import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -19,7 +20,7 @@ public class FileFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_file, container, false);
 
-        FloatingActionButton fab = view.findViewById(R.id.fab_file_action);
+        @SuppressLint({"MissingInflatedId", "LocalSuppress"}) FloatingActionButton fab = view.findViewById(R.id.fab_file_action);
         fab.setOnClickListener(v -> showConversionDialog());
 
         return view;

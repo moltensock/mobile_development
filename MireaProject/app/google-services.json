@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317455653708",
+    "project_id": "mireaproject-moltensock",
+    "storage_bucket": "mireaproject-moltensock.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317455653708:android:79a74853e0d1b910f50de9",
+        "android_client_info": {
+          "package_name": "com.mirea.fedosimovaad.mireaproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpZBxPh6QmqmKIMN1ayiQFZkxYhGA_Gjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
